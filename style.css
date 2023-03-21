@@ -1,10 +1,10 @@
 body{
     background-color:white;
 }
-.h1{
-    color:black;
+.titulo{
+    color:rgb(143, 96, 9);
 }
 
 nav{
-    background-color: rgba(236, 255, 127, 0.747);
+    background-color: rgba(58, 125, 151, 0.747);
 }
